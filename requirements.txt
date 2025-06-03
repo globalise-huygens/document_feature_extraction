@@ -1,0 +1,10 @@
+# Core dependency – OpenAI Python SDK (vision support starts in ≥1.1)
+openai>=1.6.0
+
+# (Optional) Load your API key from a .env file instead of exporting it
+python-dotenv>=1.0.0
+
+# (Optional) Progress bars for large batches
+tqdm>=4.66.0
+
+Pillow>=9.0.0
