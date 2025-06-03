@@ -7,7 +7,7 @@ import time
 import openai
 
 # === HARD‑CODED CONFIG ===
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 IMAGES_DIR = "/Users/gavinl/Desktop/Test Set for LLM Layout Extraction/Images"
 REGION_TYPES_DIR = "/Users/gavinl/Desktop/Test Set for LLM Layout Extraction/JSON"
 OUTPUT_DIR = "/Volumes/Extreme SSD/Python_Projects/Layout Feature Extraction with LLMs/Data/Feature Sets/7924_features - (o4-mini)"
