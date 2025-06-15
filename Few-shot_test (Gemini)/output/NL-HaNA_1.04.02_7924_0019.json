@@ -1,0 +1,182 @@
+[
+  {
+    "type": "header",
+    "text": "Van Amboina den 15 Mey 1756.",
+    "simplified_polygon": [
+      [
+        2604,
+        874
+      ],
+      [
+        618,
+        866
+      ],
+      [
+        614,
+        1141
+      ],
+      [
+        2591,
+        1262
+      ]
+    ]
+  },
+  {
+    "type": "marginalia",
+    "text": "scheepen de drie heuvelen en't Huijs ten„ Donk",
+    "simplified_polygon": [
+      [
+        267,
+        3426
+      ],
+      [
+        175,
+        3418
+      ],
+      [
+        205,
+        4122
+      ],
+      [
+        309,
+        4141
+      ],
+      [
+        267,
+        3426
+      ]
+    ]
+  },
+  {
+    "type": "marginalia",
+    "text": "Arivo der Scheepen",
+    "simplified_polygon": [
+      [
+        2704,
+        7069
+      ],
+      [
+        2389,
+        7058
+      ],
+      [
+        2377,
+        7250
+      ],
+      [
+        2696,
+        7292
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Batavia Aan sijn Excellentie Den Wel Edele Geboore Groot agtb: heere Jacob Mossel",
+    "simplified_polygon": [
+      [
+        2512,
+        1612
+      ],
+      [
+        412,
+        1558
+      ],
+      [
+        428,
+        2588
+      ],
+      [
+        2536,
+        2696
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Generaal van de Jnfanterij, ten dienste van den staat der vereenigde Nederlanden, mitsg. s Gouverneur Generaal, en de wel Edele heeren Na den van Nederlands Jndia",
+    "simplified_polygon": [
+      [
+        2591,
+        2816
+      ],
+      [
+        428,
+        2800
+      ],
+      [
+        321,
+        4704
+      ],
+      [
+        2512,
+        4742
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Hoog Edele Welgebooren - Gestr: Groot agtbaren Manhafte, wel wijse, voorsienige, seer Generause Heere en Heeren",
+    "simplified_polygon": [
+      [
+        2544,
+        4892
+      ],
+      [
+        444,
+        4924
+      ],
+      [
+        444,
+        6265
+      ],
+      [
+        2556,
+        6261
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "In desen Jare hebben wij weder d' Eere gehad te recipieeren per de Brigantijn De ongehoorsaamheijd en Chialoupen den 20. e de Chialoup de Pavel over Macassar den 27. Janu: item 't scheepje de Anna over Manado den 10 feb: en 't huijs ten Donk op den 10. e Maant deses Jaars, u Wel Edele Groot agtb: altoos hoog g'eerde missivens van den 24=' october 19, 28, en ontfangene brieven en 31 December de a=o pass:o nevens sodanige bijlagen papieren",
+    "simplified_polygon": [
+      [
+        3044,
+        6704
+      ],
+      [
+        225,
+        6666
+      ],
+      [
+        162,
+        8685
+      ],
+      [
+        2869,
+        8749
+      ]
+    ]
+  },
+  {
+    "type": "catch-word",
+    "text": "en",
+    "simplified_polygon": [
+      [
+        1708,
+        9033
+      ],
+      [
+        1512,
+        9033
+      ],
+      [
+        1512,
+        9153
+      ],
+      [
+        1708,
+        9153
+      ]
+    ]
+  }
+]
